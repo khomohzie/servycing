@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/servycing/static/css/main.f134c841.chunk.css",
+    "main.js": "/servycing/static/js/main.fb9bf431.chunk.js",
+    "main.js.map": "/servycing/static/js/main.fb9bf431.chunk.js.map",
+    "runtime-main.js": "/servycing/static/js/runtime-main.c16382e6.js",
+    "runtime-main.js.map": "/servycing/static/js/runtime-main.c16382e6.js.map",
+    "static/js/2.90b7200f.chunk.js": "/servycing/static/js/2.90b7200f.chunk.js",
+    "static/js/2.90b7200f.chunk.js.map": "/servycing/static/js/2.90b7200f.chunk.js.map",
+    "static/js/3.4abe812c.chunk.js": "/servycing/static/js/3.4abe812c.chunk.js",
+    "static/js/3.4abe812c.chunk.js.map": "/servycing/static/js/3.4abe812c.chunk.js.map",
+    "index.html": "/servycing/index.html",
+    "static/css/main.f134c841.chunk.css.map": "/servycing/static/css/main.f134c841.chunk.css.map",
+    "static/js/2.90b7200f.chunk.js.LICENSE.txt": "/servycing/static/js/2.90b7200f.chunk.js.LICENSE.txt",
+    "static/media/Work only with the best.357f9345.png": "/servycing/static/media/Work only with the best.357f9345.png",
+    "static/media/farming.1869c4c6.png": "/servycing/static/media/farming.1869c4c6.png",
+    "static/media/landing-page.a049e32f.jpg": "/servycing/static/media/landing-page.a049e32f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c16382e6.js",
+    "static/js/2.90b7200f.chunk.js",
+    "static/css/main.f134c841.chunk.css",
+    "static/js/main.fb9bf431.chunk.js"
+  ]
+}
